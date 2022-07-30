@@ -1,0 +1,13 @@
+name: RPG
+version: 1.0
+author: Kiernan
+main: com.kiernan.rpg.Main
+api-version: 1.14
+commands:
+  starter:
+    description: Gives the player gear, food, and a weapon to start their journey
+    usage: /<command>
+  shop:
+    description: Opens a shop for the player to buy stuff
+    usage: /<command>
+
